@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6255-3E31
+
+ Directory of C:\Users\sahit\OneDrive\Desktop\gitproject
+
+23-03-2022  10:01    <DIR>          .
+23-03-2022  09:54    <DIR>          ..
+23-03-2022  10:01                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,557,209,088 bytes free
